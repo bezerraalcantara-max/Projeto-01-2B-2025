@@ -1,12 +1,19 @@
 .cabecalho {
 width: 680px;
-height: 86;
+height: 206;
 background-color: 856AF7;
 
 }
 .primeira_secao{
- width: 360px;
-height: 159px;
+ width: 244px;
+height: 197px;
+background-color: rgb(101, 174, 174);
+
+}
+}
+.retangulo{
+ width: 244px;
+height: 197px;
 background-color: rgb(101, 174, 174);
 
 }
