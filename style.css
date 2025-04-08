@@ -1,19 +1,47 @@
 .cabecalho {
-width: 680px;
-height: 206;
-background-color: 856AF7;
+    width: 680px;
+    height: 206;
+    background-color: 856AF7;
 
 }
-.primeira_secao{
- width: 244px;
-height: 197px;
-background-color: rgb(101, 174, 174);
+
+.primeira_secao {
+    width: 700px;
+    height: 216px;
+    background-color: rgb(101, 174, 174);
+    display: flex;
+    flex-direction: row;
+
+
+
 
 }
 }
-.retangulo{
- width: 244px;
-height: 197px;
-background-color: rgb(101, 174, 174);
+
+.quadrado {
+    width: 281px;
+    height: 216px;
+    background-color: CBBC39;
+
+}
+
+.quadrado {
+    width: 310px;
+    height: 201px;
+    background-color: CACACA;
+
+}
+
+.quadrado {
+    width: 253px;
+    height: 245px;
+    background-color: DE4926;
+
+}
+
+.esfera {
+    width: 254px;
+    height: 237px;
+    background-color: 605AC8;
 
 }
