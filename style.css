@@ -17,12 +17,6 @@
 
 }
 
-.esfera {
-    width: 254px;
-    height: 237px;
-    background-color: 605AC8;
-
-}
 .quadrado_amarelo{
     width: 281px;
     height: 216px;
@@ -31,14 +25,20 @@
 }
 .quadrado_cinza
 {
-    width: 281px;
-    height: 216px;
-    background-color: #CBBC39;
+    width: 310px;
+    height: 201px;
+    background-color: #CACACA;
 
 }
-.quadrado_amarelo{
-    width: 281px;
-    height: 216px;
-    background-color: #CBBC39;
+.quadrado_vermelho{
+    width: 253px;
+    height: 245px;
+    background-color: #DE4926;
 
+}
+{
+.esfera_roxo
+  width: 254px;
+  height: 237px;
+  background-color: #605AC8;
 }
