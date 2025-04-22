@@ -7,8 +7,8 @@
 
 .primeira_secao {
     width: 700px;
-    height: 216px;
-    background-color: rgb(101, 174, 174);
+    height: 836px;
+    background-color: #EBDCAB;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -36,8 +36,8 @@
     background-color: #DE4926;
 
 }
-{
-.esfera_roxo
+
+.esfera_roxo{
   width: 254px;
   height: 237px;
   background-color: #605AC8;
