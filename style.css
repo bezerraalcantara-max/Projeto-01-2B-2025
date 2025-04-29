@@ -1,15 +1,15 @@
 .cabecalho {
-    width: 680px;
-    height: 206;
-    position: 5, -3;
-    background-color: #856AF7;
+    width: 700px;
+    height: 216px;
+    position: 0, 0;
+    background-color: #41D19F;
 
 }
 
 .cabecalho2{
-width: 700px;
-height: 216px;
-position: 0, 0;
+width: 680px;
+height: 206px;
+position: 5, -3;
 background-color: #41D19F;
 }
 
