@@ -1,7 +1,7 @@
 .cabecalho {
     width: 700px;
     height: 216px;
-    position: 0, 0;
+    position: 0px, 0px;
     background-color: #41D19F;
 
 }
@@ -16,7 +16,7 @@ background-color: #856AF7;
 .texto{
 width: 185;
 height: 58;
-position: 252, 17;
+position: 252px, 17px;
 background-color: #0E0E0E;
 
 }
@@ -27,7 +27,7 @@ background-color: #0E0E0E;
 .primeira_secao {
     width: 700px;
     height: 836px;
-    position: 0, 4;
+    position: 0px, 4px;
     background-color: #EBDCAB;
     display: flex;
     flex-direction: row;
@@ -40,7 +40,7 @@ background-color: #0E0E0E;
 .quadrado_amarelo{
     width: 281px;
     height: 216px;
-    position: 5, 223;
+    position: 5px, 223px;
     background-color: #CBBC39;
 
 }
@@ -48,14 +48,14 @@ background-color: #0E0E0E;
 {
     width: 310px;
     height: 201px;
-    position: 339, 223;
+    position: 339px, 223px;
     background-color: #CACACA;
 
 }
 .quadrado_vermelho{
     width: 253px;
     height: 245px;
-    position: 19, 486;
+    position: 19px, 486px;
     background-color: #DE4926;
 
 }
@@ -63,42 +63,42 @@ background-color: #0E0E0E;
 .esfera_roxo{
   width: 254px;
   height: 237px;
-  position: 387, 475;
+  position: 387px, 475px;
   background-color: #605AC8;
 }
 
 .imagem1{
 width: 244px;
 height: 197px;
-position: 28, 227;
+position: 28px, 227px;
 }
 
 .imagem2{
 width: 244px;
 height: 197px;
-position: 372, 225;
+position: 372px, 225px;
 }
 
 .imagem3{
 width: 213px;
 height: 232px;
-position: 39, 489;
+position: 39px, 489px;
 }
 
 .imagem4{
 width: 226px;
 height: 220px;
-position: 404, 483;
+position: 404px, 483px;
 }
 
 .imagem01{
 width: 225px;
 height: 198px;
-position: 5, 4;
+position: 5px, 4px;
 }
 
 .imagem02{
 width: 231px;
 height: 191px;
-position: 454, 7;
+position: 454px, 7px;
 }
