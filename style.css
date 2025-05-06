@@ -1,7 +1,6 @@
 .cabecalho {
     width: 700px;
     height: 216px;
-    position: 0px, 0px;
     background-color: #41D19F;
 
 }
@@ -9,15 +8,14 @@
 .bloco{
 width: 680px;
 height: 206px;
-position: 5px, -3px;
 background-color: #856AF7;
 }
 
 .texto{
 width: 185px;
 height: 58px;
-position: 252px, 17px;
 background-color: #0E0E0E;
+text-align: center;
 
 }
 
@@ -27,7 +25,6 @@ background-color: #0E0E0E;
 .primeira_secao {
     width: 700px;
     height: 836px;
-    position: 0px, 4px;
     background-color: #EBDCAB;
     display: flex;
     flex-direction: row;
@@ -40,7 +37,6 @@ background-color: #0E0E0E;
 .quadrado_amarelo{
     width: 281px;
     height: 216px;
-    position: 5px, 223px;
     background-color: #CBBC39;
 
 }
@@ -48,14 +44,12 @@ background-color: #0E0E0E;
 {
     width: 310px;
     height: 201px;
-    position: 339px, 223px;
     background-color: #CACACA;
 
 }
 .quadrado_vermelho{
     width: 253px;
     height: 245px;
-    position: 19px, 486px;
     background-color: #DE4926;
 
 }
@@ -63,14 +57,12 @@ background-color: #0E0E0E;
 .esfera_roxo{
   width: 254px;
   height: 237px;
-  position: 387px, 475px;
   background-color: #605AC8;
 }
 
 .imagem1{
 width: 244px;
 height: 197px;
-position: 28px, 227px;
 }
 
 .imagem2{
