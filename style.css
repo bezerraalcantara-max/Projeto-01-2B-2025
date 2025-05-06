@@ -2,13 +2,14 @@
     width: 700px;
     height: 216px;
     background-color: #41D19F;
-
+    text-align: center;
 }
 
 .bloco{
 width: 680px;
 height: 206px;
 background-color: #856AF7;
+text-align: center;
 }
 
 .texto{
@@ -29,7 +30,7 @@ text-align: center;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-
+    text-align: center;
 
 
 }
@@ -38,59 +39,61 @@ text-align: center;
     width: 281px;
     height: 216px;
     background-color: #CBBC39;
-
+    text-align: center;
 }
 .quadrado_cinza
 {
     width: 310px;
     height: 201px;
     background-color: #CACACA;
-
+    text-align: center;
 }
 .quadrado_vermelho{
     width: 253px;
     height: 245px;
     background-color: #DE4926;
-
+    text-align: center;
 }
 
 .esfera_roxo{
   width: 254px;
   height: 237px;
   background-color: #605AC8;
+  text-align: center;
 }
 
 .imagem1{
 width: 244px;
 height: 197px;
+text-align: center;
 }
 
 .imagem2{
 width: 244px;
 height: 197px;
-position: 372px, 225px;
+text-align: center;
 }
 
 .imagem3{
 width: 213px;
 height: 232px;
-position: 39px, 489px;
+text-align: center;
 }
 
 .imagem4{
 width: 226px;
 height: 220px;
-position: 404px, 483px;
+text-align: center;
 }
 
 .imagem01{
 width: 225px;
 height: 198px;
-position: 5px, 4px;
+text-align: center;
 }
 
 .imagem02{
 width: 231px;
 height: 191px;
-position: 454px, 7px;
+text-align: center;
 }
