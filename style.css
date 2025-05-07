@@ -67,9 +67,11 @@ text-align: center;
 }
 
 .imagem1{
+background-color: #D9D9D9;
 width: 244px;
 height: 197px;
 text-align: center;
+color: #0E0E0E;
 }
 
 .imagem2{
