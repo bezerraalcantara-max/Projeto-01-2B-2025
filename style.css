@@ -2,7 +2,11 @@
     width: 700px;
     height: 216px;
     background-color: #41D19F;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     text-align: center;
+    
 }
 
 .bloco{
