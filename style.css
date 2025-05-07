@@ -73,6 +73,14 @@ text-align: center;
 
 }
 
+.texto1{
+    background-color: #D9D9D9;
+    color: #EBDE6E;
+    text-align: center;
+    width: 252px;
+    height: 37px;
+    }
+
 .imagem2{
 width: 244px;
 height: 197px;
