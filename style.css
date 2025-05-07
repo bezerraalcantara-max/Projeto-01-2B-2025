@@ -1,4 +1,12 @@
 .cabecalho {
+    width: 680px;
+    height: 206px;
+    background-color: #856AF7;
+    
+    
+}
+
+.cabeca{
     width: 700px;
     height: 216px;
     background-color: #41D19F;
@@ -6,13 +14,6 @@
     flex-direction: row;
     justify-content: space-between;
     text-align: center;
-    
-}
-
-.cabeça{
-width: 680px;
-height: 206px;
-background-color: #856AF7;
 }
 
 .bloco{
