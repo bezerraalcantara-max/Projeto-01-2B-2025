@@ -118,10 +118,26 @@ height: 232px;
 text-align: center;
 }
 
+.texto3{
+background-color: #F05935;
+color: #0E0E0E;
+text-align: center;
+width: 195px;
+height: 55px;
+}
+
 .imagem4{
 width: 226px;
 height: 220px;
 text-align: center;
+}
+
+.texto4{
+background-color: #756EEB;
+color: #0E0E0E;
+text-align: center;
+width: 243px;
+height: 32px;
 }
 
 .imagem01{
@@ -135,3 +151,4 @@ width: 231px;
 height: 191px;
 text-align: center;
 }
+
