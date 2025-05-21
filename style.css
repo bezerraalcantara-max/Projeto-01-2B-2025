@@ -39,7 +39,7 @@ text-align: center;
     height: 836px;
     background-color: #EBDCAB;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     text-align: center;
 
