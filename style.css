@@ -40,8 +40,9 @@ text-align: center;
     background-color: #EBDCAB;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     text-align: center;
+    flex-wrap: nowrap;
 
 
 }
